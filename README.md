@@ -1,5 +1,5 @@
 #  Desafio de projeto sobre Git / GitHib da DIO
-Repositório criado para desafio de projeto sobre Git/Github
+Repositório criado para desafio de projeto
 
-## Links Ùteis
+## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
