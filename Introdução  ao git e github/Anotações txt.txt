@@ -1,0 +1,15 @@
+/link para dowload Git Bash :https://git-scm.com/downloads
+
+Git Bash:
+*Abre o Git Bash através da pasta do repositório.
+*git clone + link https do Git Hub.
+*cd + link do repositório = Abrir repositório.
+*git status = saber o status ex. o que foi salvo ou não.
+*git add = para adicionar no repositório.
+*git status = para saber se foi adicionado.
+*git commit -m" comentário /título  " = preparando para salvar no GitHub.
+*git status = para ver se foi incluido .
+*git push origin main = vai estar enviando todos commits para nuvem.
+a partir deste momento abra o GitHub e de f5 para atualizar a página e aparecer o repertório.
+
+/link para dowload GitHub caso não tenha uma conta : https://desktop.github.com/
